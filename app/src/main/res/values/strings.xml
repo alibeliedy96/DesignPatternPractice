@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Design Pattern Practice</string>
+    <string name="movie_name">movie name</string>
+    <string name="get_movie">get movie</string>
+    <string name="date">date</string>
+    <string name="des">des</string>
+    <string name="id">id</string>
+    <string name="name">name</string>
+    <string name="go_to_mvp">go to MVP</string>
+    <string name="go_to_mvvm">go to MVVM</string>
+</resources>
